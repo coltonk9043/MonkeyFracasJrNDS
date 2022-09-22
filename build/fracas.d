@@ -1,0 +1,1 @@
+fracas.o: fracas.s
