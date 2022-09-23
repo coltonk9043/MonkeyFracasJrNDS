@@ -59,7 +59,7 @@ main.o: C:/devkitPro/examples/nds/Engine1/source/main.cpp \
  C:/devkitPro/libnds/include/nds/arm9/video.h \
  C:/devkitPro/libnds/include/nds/arm9/videoGL.h \
  C:/devkitPro/libnds/include/nds/arm9/nand.h \
- c:\devkitpro\examples\nds\engine1\include\entities.h \
+ C:/devkitPro/examples/nds/Engine1/source/Entities.h \
  C:/devkitPro/examples/nds/Engine1/build/barrel.h \
  C:/devkitPro/examples/nds/Engine1/build/fracas.h \
  C:/devkitPro/examples/nds/Engine1/build/ship.h
@@ -123,7 +123,7 @@ C:/devkitPro/libnds/include/nds/arm9/trig_lut.h:
 C:/devkitPro/libnds/include/nds/arm9/video.h:
 C:/devkitPro/libnds/include/nds/arm9/videoGL.h:
 C:/devkitPro/libnds/include/nds/arm9/nand.h:
-c:\devkitpro\examples\nds\engine1\include\entities.h:
+C:/devkitPro/examples/nds/Engine1/source/Entities.h:
 C:/devkitPro/examples/nds/Engine1/build/barrel.h:
 C:/devkitPro/examples/nds/Engine1/build/fracas.h:
 C:/devkitPro/examples/nds/Engine1/build/ship.h:
