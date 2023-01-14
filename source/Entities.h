@@ -1,6 +1,5 @@
 /*
 // Header file containing class and function prototypes.
-// Port created by Colton K - ckenne87 - 251 089 374
 */
 
 #ifndef ENTITIES_H
