@@ -1,6 +1,5 @@
 /*
 // An NDS port of Monkey Fracas Jr. from Futurama
-// Port created by Colton K - ckenne87 - 251 089 374
 */
 
 #include <nds.h>
