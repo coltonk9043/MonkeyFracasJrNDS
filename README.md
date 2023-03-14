@@ -14,3 +14,5 @@ Compiling this code will generate a .nds file, which can be emulated or loaded o
 3. Run 'make'. Assuming that the library is installed and working, the project should compile.
 4. After the 'make' command is finished, you should have a '.nds' file in the root directory of the project.
 5. Open the '.nds' file in an emulator or a homebrewed NDS device. You should be good to go! :)
+
+![image](https://user-images.githubusercontent.com/56643581/224885181-ddd78e14-5701-4ef4-901f-7d8fecf42aaa.png)
